@@ -29,7 +29,7 @@ body.dark p{
 body.dark ul{
     color: #fff;
 }
-body.dark li{
+body.dark li a{
     color: #fff;
 }
 .darkModeSwitch{
