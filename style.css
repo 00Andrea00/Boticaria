@@ -76,6 +76,9 @@ body.dark li a{
     cursor: pointer;
 }
 
+body{
+    background-color: whitesmoke;
+}
 ul{
     text-align: center;
     list-style: none;
